@@ -108,3 +108,5 @@ if __name__ == '__main__':
     app.run(debug=True)
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+![image](https://github.com/user-attachments/assets/3fb5145e-7073-4c03-92fe-d7ba9d21f7e4)
+
